@@ -3,6 +3,8 @@
 # 🏅 Tokyo Olympics Data Engineering Pipeline
 
 <div align="center">
+<img width="1097" height="552" alt="image" src="https://github.com/user-attachments/assets/0243fc39-268d-4b89-a11b-275ae28c9621" />
+
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
